@@ -1,0 +1,23 @@
+body {
+	color: #a9aeb3; 
+	background-color: #181617; 
+}
+
+#akapit {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-align: center; 
+    font-size: 10pt;  
+    margin: 5mm; 
+}
+
+#nagłówek{
+    font-family: Impact, fantasy; 
+    text-align: center; 
+    font-size: 20pt; 
+}
+
+#skrypt{
+    font-family:  Andale Mono, monospace; 
+    font-size: 15pt; 
+    padding-left: 1120px 
+}
